@@ -23,6 +23,6 @@
   • Listagem de issues  
   • Acesso ao issue desejado pelo usuário  
   
-![desktop]()  
+![desktop](https://github.com/Levils114/Git_Explorer/blob/master/src/assets/readme.png)  
 
 
