@@ -25,10 +25,10 @@
   
 **🖱️ Como executar:**    
   
-  • Fazer o download do repositório  
-  • Acessá-lo pelo terminal  
-  • Digitar "yarn" na pasta do repositório (caso não tenha o yarn, basta seguir o seguinte documento https://classic.yarnpkg.com/en/docs/install#windows-stable)  
-  • Após a instalação de todos os pacotes, agora digite "yarn start" e a aplicação irá executar automaticamente  
+  • Faça o download do repositório  
+  • Acesse ele pelo terminal  
+  • Digite "yarn" na pasta do repositório (caso não tenha o yarn, basta seguir o seguinte documento https://classic.yarnpkg.com/en/docs/install#windows-stable)  
+  • Após a instalação de todos os pacotes, digite "yarn start" e a aplicação irá executar automaticamente  
   
 ![desktop](https://github.com/Levils114/Git_Explorer/blob/master/src/assets/readme.png)  
 
