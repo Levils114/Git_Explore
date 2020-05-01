@@ -1,19 +1,19 @@
 ![logo](https://github.com/Levils114/Git_Explore/blob/master/src/assets/logo.svg)
 
-🔎Introdução: 
+**🔎 Introdução:** 
   
   O Git_Explorer é fruto do bootcamp goStack da Rocketseat. A aplicação tem como objetivo dar ao usuário a funcionalidade de       pesquisar repositórios do Github e poder acessá-lo, podendo ver dados como: stars, forks e issues abertas.
   
-💻Tecnologias utilizadas:  
+**💻 Tecnologias utilizadas:  **
   
   🌐 Github API  
   ⚛️ ReactJS 
   
-💭Funcionalidades adicionadas por mim:  
+**💭 Funcionalidades adicionadas por mim:  **
   
   • Download do repositório desejado pelo usuário
   
-📋Funcionalidades:  
+**📋 Funcionalidades:  **
 
   • Pesquisar repositório  
   • Visualização de foto, nome e descrição do repositório  
@@ -22,6 +22,13 @@
   • Download do repositório  
   • Listagem de issues  
   • Acesso ao issue desejado pelo usuário  
+  
+**🖱️ Como executar:  **  
+  
+  • Fazer o download do repositório  
+  • Acessá-lo pelo terminal  
+  • Digitar "yarn" na pasta do repositório (caso não tenha o yarn, basta seguir o seguinte documento https://classic.yarnpkg.com/en/docs/install#windows-stable)  
+  • Após a instalação de todos os pacotes, agora digite "yarn start" e a aplicação irá executar automaticamente  
   
 ![desktop](https://github.com/Levils114/Git_Explorer/blob/master/src/assets/readme.png)  
 
