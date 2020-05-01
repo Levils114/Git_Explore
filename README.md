@@ -8,11 +8,7 @@
   
   🌐 Github API  
   ⚛️ ReactJS 
-  
-**💭 Funcionalidades adicionadas por mim:**  
-  
-  • Download do repositório desejado pelo usuário
-  
+    
 **📋 Funcionalidades:**  
 
   • Pesquisar repositório  
