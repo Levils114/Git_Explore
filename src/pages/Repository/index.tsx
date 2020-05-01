@@ -101,6 +101,12 @@ const Repository: React.FC = () => {
 							<span>Issues Abertas</span>
 						</li>
 					</ul>
+
+					<div className="download">
+						<button>
+							<a href={`https://github.com/${repository.full_name}/archive/master.zip`}>Download</a>
+						</button>
+					</div>
 				</div>
 			</RepositoryInfo>
 			</>
