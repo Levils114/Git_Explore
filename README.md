@@ -4,16 +4,16 @@
   
   O Git_Explorer é fruto do bootcamp goStack da Rocketseat. A aplicação tem como objetivo dar ao usuário a funcionalidade de       pesquisar repositórios do Github e poder acessá-lo, podendo ver dados como: stars, forks e issues abertas.
   
-**💻 Tecnologias utilizadas:  **
+**💻 Tecnologias utilizadas:**  
   
   🌐 Github API  
   ⚛️ ReactJS 
   
-**💭 Funcionalidades adicionadas por mim:  **
+**💭 Funcionalidades adicionadas por mim:**  
   
   • Download do repositório desejado pelo usuário
   
-**📋 Funcionalidades:  **
+**📋 Funcionalidades:**  
 
   • Pesquisar repositório  
   • Visualização de foto, nome e descrição do repositório  
@@ -23,7 +23,7 @@
   • Listagem de issues  
   • Acesso ao issue desejado pelo usuário  
   
-**🖱️ Como executar:  **  
+**🖱️ Como executar:**    
   
   • Fazer o download do repositório  
   • Acessá-lo pelo terminal  
