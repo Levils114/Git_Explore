@@ -15,13 +15,13 @@
   
 📋Funcionalidades:  
 
-  • Pesquisar repositório
-  • Visualização de foto, nome e descrição do repositório
-  • Acesso à tela com mais detalhes sobre o repositório 
-  • Visualização de stars, forks e issues abertas do repositório
-  • Download do repositório
-  • Listagem de issues
-  • Acesso ao issue desejado pelo usuário
+  • Pesquisar repositório  
+  • Visualização de foto, nome e descrição do repositório  
+  • Acesso à tela com mais detalhes sobre o repositório    
+  • Visualização de stars, forks e issues abertas do repositório  
+  • Download do repositório  
+  • Listagem de issues  
+  • Acesso ao issue desejado pelo usuário  
   
 ![desktop]()  
 
